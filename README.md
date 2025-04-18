@@ -1,4 +1,4 @@
-# 🏗️ Smart Resource Optimization for Efficient Construction Management
+#  Smart Resource Optimization for Efficient Construction Management
 
 An AI-powered smart construction platform that enhances efficiency, reduces costs, and promotes sustainability in construction projects through real-time data integration and predictive modeling.
 
