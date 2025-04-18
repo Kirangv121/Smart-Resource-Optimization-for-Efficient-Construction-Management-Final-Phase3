@@ -10,7 +10,7 @@ An AI-powered smart construction platform that enhances efficiency, reduces cost
 
 ## 📌 Project Overview
 
-This system is designed to optimize construction resources dynamically using real-time data and AI/ML models. It helps developers, project managers, and homeowners plan construction efficiently while minimizing risk and environmental impact.
+This system is designed to optimize construction resources dynamically using real-time data and AI/ML models. It helps developers, contractors and homeowners plan construction efficiently while minimizing risk and environmental impact.
 
 ---
 
@@ -61,12 +61,9 @@ This system is designed to optimize construction resources dynamically using rea
 
 ## 📡 Real-Time Data Sources
 
-| Data Type | API Source | Role |
-|----------|------------|------|
 | 🧱 Construction Material Prices | Supplier APIs / Web Scraping | Live cost tracking |
 | 👷 Labor Market Rates | Industry APIs | Dynamic workforce costing |
 | 🌦 Weather Conditions | OpenWeatherMap API | Predict delays & reschedule |
-| 🚛 Material Supply Chains | Supplier APIs | Track availability |
 | 📈 Market Trends | News APIs | Risk awareness & cost forecasting |
 
 ---
@@ -82,15 +79,4 @@ This system is designed to optimize construction resources dynamically using rea
 
 ---
 
-## 🧪 Local Setup
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/construction-optimizer.git
-cd construction-optimizer
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the development server
-npm run dev
+ 
