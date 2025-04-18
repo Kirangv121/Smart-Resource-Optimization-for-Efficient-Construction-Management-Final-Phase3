@@ -1,10 +1,10 @@
-#  Smart Resource Optimization for Efficient Construction Management
+# 🏗️ Smart Resource Optimization for Efficient Construction Management
 
 An AI-powered smart construction platform that enhances efficiency, reduces costs, and promotes sustainability in construction projects through real-time data integration and predictive modeling.
 
 ## 🌟 Live Demo
 
-👉 [Homeowner Dashboard](https://kzmkxe2xmhv3sk7vfjp1.lite.vusercontent.net/homeowner-dashboard)
+👉 [Live Dashboard](https://kzmkxe2xmhv3sk7vfjp1.lite.vusercontent.net/)
 
 ---
 
@@ -31,7 +31,7 @@ This system is designed to optimize construction resources dynamically using rea
 - ⚠️ **Risk Assessment & Alerts**  
   AI-powered risk analysis engine to notify users about delays, budget overruns, and disruptions.
 
-- 🏡 **Interactive Homeowner Dashboard**  
+- 📋 **Interactive Dashboard**  
   - Input land/site dimensions.
   - Select construction type: House, Building, School, Commercial, Warehouse.
   - View real-time predictions for:
